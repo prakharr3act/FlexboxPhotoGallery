@@ -22,9 +22,13 @@ This project includes the following features (using GFM task lists):
 
 ---
 
+---
+
 ##  Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
 | **HTML5** | Provides the basic structure of the webpage |
-| **C**
+| **CSS3**  | Handles styling and the core Flexbox layout logic |
+
+---
