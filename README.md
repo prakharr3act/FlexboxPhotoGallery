@@ -8,16 +8,16 @@ This project creates a **responsive image gallery** using the **CSS Flexbox layo
 
 This project includes the following features (using GFM task lists):
 
-- [x] **Responsive Design**  
+-  **Responsive Design**  
   The gallery adapts to different screen sizes and device orientations.
 
-- [x] **Flexbox Layout**  
+-  **Flexbox Layout**  
   Utilizes `display: flex`, `flex-wrap`, and `justify-content` for image arrangement.
 
-- [x] **Image Handling**  
+-  **Image Handling**  
   Uses `object-fit: cover` to ensure images fill their containers uniformly without distortion.
 
-- [x] **Placeholder Content**  
+-  **Placeholder Content**  
   Uses an assortment of fun cat images as visual placeholders.
 
 ---
