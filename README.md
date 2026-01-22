@@ -4,7 +4,7 @@ This project creates a **responsive image gallery** using the **CSS Flexbox layo
 
 ---
 
-## ✨ Features
+##  Features
 
 This project includes the following features (using GFM task lists):
 
@@ -22,7 +22,7 @@ This project includes the following features (using GFM task lists):
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |-----------|---------|
