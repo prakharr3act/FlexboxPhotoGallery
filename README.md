@@ -20,7 +20,6 @@ This project includes the following features (using GFM task lists):
 -  **Placeholder Content**  
   Uses an assortment of fun cat images as visual placeholders.
 
----
 
 ---
 
